@@ -6,7 +6,7 @@ Parts Used:
 *Arduino Uno 3  
 *16-pin LCD display  
 *Variable Potentiometer 
-    Used for varying brightness on LCD display
+    Used for varying brightness on LCD display  
 *220 ohm resistor  
 *Arduino Joystick module  
 *Wires  
